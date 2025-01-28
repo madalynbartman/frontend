@@ -1,2 +1,2 @@
-# front-end
-Front end development projects
+# frontend
+Front-end development projects
